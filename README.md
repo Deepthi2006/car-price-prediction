@@ -114,5 +114,8 @@ For queries or contributions, feel free to contact:
 - **Name**: Deepthi
 - **GitHub**: (https://github.com/717823i107)
 ```
+<h1>index.html</h1>
+<img width="176" alt="image" src="https://github.com/user-attachments/assets/159ebad2-50c1-44d1-93d5-7d1a8c14eee2" />
+<h1>result.html</h1>
+<img width="264" alt="image" src="https://github.com/user-attachments/assets/2ad9a47a-c03f-4254-af7d-c5f5badb9c4c" />
 
-Replace placeholders like `yourusername` with your actual GitHub username or any relevant contact details before uploading.
